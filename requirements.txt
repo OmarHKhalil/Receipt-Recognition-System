@@ -1,0 +1,30 @@
+# --- Core Framework & Web API ---
+fastapi==0.110.0
+uvicorn==0.30.0
+python-multipart==0.0.9
+python-dotenv==1.0.1
+
+# --- Computer Vision (YOLO) ---
+ultralytics==8.4.12
+opencv-python==4.6.0.66
+pillow==11.3.0
+torch==2.3.0
+torchvision==0.18.0
+
+# --- Machine Learning & Data Processing ---
+scikit-learn==1.4.2
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.1.4
+
+# --- Generative AI ---
+google-generativeai==0.4.1
+google-genai==2.0.0
+# conda create --prefix E:\Receipt_Recognition\env python=3.12.4 -y
+
+# conda activate .\env
+
+# pip install -r requirements.txt
+
+# uvicorn app.main:app --reload  
+# python -m uvicorn app.main:app --reload
