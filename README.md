@@ -52,7 +52,7 @@ Structured JSON (Organized Data)
 - **Input:** Any image (448×448 pixels)
 - **Output:** Receipt / Menu / Invalid
 - **Speed:** 0.3 seconds
-- [Details & Training](https://github.com/OmarHKhalil/Deep-Learning-Projects/Invoice_Classification)
+- [Details & Training](https://github.com/OmarHKhalil/Deep-Learning-Projects/tree/main/Invoice_Classification)
 
 ### Stage 2️⃣: Region Detection (YOLOv8m)
 
@@ -62,7 +62,7 @@ Structured JSON (Organized Data)
 - **Performance:** 0.825 mAP50 (Best model)
 - **Output:** Cropped images of each region
 - **Speed:** 0.8 seconds
-- [Details & Experiments](https://github.com/OmarHKhalil/Deep-Learning-Projects/Receipt_Object_Detection)
+- [Details & Experiments](https://github.com/OmarHKhalil/Deep-Learning-Projects/tree/main/Receipt_Object_Detection)
 
 ### Stage 3️⃣: Text Extraction (Gemini 2.5-Flash)
 
@@ -83,7 +83,7 @@ Structured JSON (Organized Data)
 - **Categories:** 15 types (Beverages, Dairy, Meat, Electronics, etc.)
 - **Accuracy:** 0.93 F1-Score
 - **Features:** TF-IDF
-- [Details & Models](https://github.com/OmarHKhalil/Machine-Learning-Projects/Information_Extraction)
+- [Details & Models](https://github.com/OmarHKhalil/Machine-Learning-Projects/tree/main/Information_Extraction)
 
 ---
 
