@@ -59,7 +59,7 @@ Structured JSON (Organized Data)
 **Question:** "Where are the important areas?"
 
 - **Detects:** Total Amount, Items List, Date, Invoice #, Store Name
-- **Performance:** 0.825 mAP50 (Best model)
+- **Performance:** 0.7693 mAP50 (Best model)
 - **Output:** Cropped images of each region
 - **Speed:** 0.8 seconds
 - [Details & Experiments](https://github.com/OmarHKhalil/Deep-Learning-Projects/tree/main/Receipt_Object_Detection)
